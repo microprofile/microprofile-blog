@@ -19,7 +19,7 @@ From a technology perspective, you tell us. MicroProfile 1.0 is intentionally fe
 
 From a project perspective, https://docs.google.com/document/d/1THnk3n7Q2n9ml0F2jkOgW3qmcCyMfo7y95w2krL2Dig/edit#heading=h.e7lwedyyvju[we plan] to move MicroProfile to a foundation where we collectively own its future. A foundation provides established business and technical processes like governance and membership guidelines, legal and marketing functions, software build infrastructure, and so on.
 
-Stay tuned. Better yet, https://groups.google.com/forum/#!forum/microprofile[stay  in the know] and also check out the the roadmap section of the https://docs.google.com/presentation/d/13zHkdv_ri5Twcq4emJ9lnEH7t9gtkb65B5-kY-u0yKM[MicroProfile presentation]. Join other community members to learn more about MicroProfile 1.0 and its roadmap at the http://microprofile.io/blog/2016/09/microprofile-at-javaone[MicroProfile panel luncheon] during JavaOne on Thursday, September 22nd. 
+Stay tuned. Better yet, https://groups.google.com/forum/#!forum/microprofile[stay  in the know] and also check out the the roadmap section of the https://docs.google.com/presentation/d/13zHkdv_ri5Twcq4emJ9lnEH7t9gtkb65B5-kY-u0yKM[MicroProfile presentation]. Join other community members to learn more about MicroProfile 1.0 and its roadmap at the http://microprofilelunch.com/JavaOne[MicroProfile panel luncheon] during JavaOne on Thursday, September 22nd. 
 
 == Additional Resources 
 
