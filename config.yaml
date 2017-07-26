@@ -1,0 +1,28 @@
+%YAML 1.2
+---
+blog:
+  - url: 2016/09/microprofile-at-javaone.adoc
+    title: 'Announcing MicroProfile 1.0'
+    date: 2016-08-04
+    author: tveronezi
+    extract: >
+      We would like to officially announce MicroProfile 1.0! In only three months, as promised, we have gone from an
+      announced collaboration to delivering multiple implementations. We have agreed on a base set of features that
+      defines solid and stable roots on which to grow, grown to 6 implementations, and have added multiple member
+      organizations and contributors.
+
+  - url: 2016/09/blog-test.adoc
+    title: 'Test One'
+    date: 2016-08-04
+    author: dblevins
+    extract: >
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vulputate urna ac tortor congue venenatis.
+      Curabitur a nulla quis mauris accumsan pulvinar.
+
+  - url: 2016/09/no_title.adoc
+    title: 'Test Two'
+    date: 2016-08-04
+    author: tveronezi
+    extract: >
+      Aliquam sit amet posuere enim. Donec eget cursus dui. Suspendisse rhoncus eros vitae augue rhoncus, vel sodales
+      ex aliquam. Suspendisse potenti.
