@@ -3,7 +3,7 @@
 blog:
   - url: 2016/09/microprofile-at-javaone.adoc
     title: 'Announcing MicroProfile 1.0'
-    date: 2016-08-04
+    date: '2016-08-04'
     author: tveronezi
     extract: >
       We would like to officially announce MicroProfile 1.0! In only three months, as promised, we have gone from an
@@ -13,7 +13,7 @@ blog:
 
   - url: 2016/09/blog-test.adoc
     title: 'Test One'
-    date: 2016-08-04
+    date: '2016-08-04'
     author: dblevins
     extract: >
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vulputate urna ac tortor congue venenatis.
@@ -21,7 +21,7 @@ blog:
 
   - url: 2016/09/no_title.adoc
     title: 'Test Two'
-    date: 2016-08-04
+    date: '2016-08-04'
     author: tveronezi
     extract: >
       Aliquam sit amet posuere enim. Donec eget cursus dui. Suspendisse rhoncus eros vitae augue rhoncus, vel sodales
