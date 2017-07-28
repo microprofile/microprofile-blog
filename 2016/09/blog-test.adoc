@@ -1,7 +1,11 @@
-# Testing
+= Testing
 
 This is a test blog post
 
-## Another heading
+[[primitives-nulls]]
+== Another heading
 
 Cool things are happening, stay tuned!
+
+include::basics.adoc[]
+
