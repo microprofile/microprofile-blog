@@ -60,6 +60,7 @@ blog:
     title: 'Lorem ipsum dolor sit amet'
     date: '2017-04-10'
     author: dblevins
+    image: '2017/04/sunset.jpg'
     tags:
       - lorem_ipsum
     extract: >
