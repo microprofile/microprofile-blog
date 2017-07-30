@@ -1,36 +1,68 @@
 %YAML 1.2
 ---
 blog:
-  - url: 2016/09/microprofile-at-javaone.adoc
-    title: "11 Impossible Tech Interview Questions You Don't Want To Be Asked"
-    date: '2016-08-04'
-    author: tveronezi
+  - url: 'http://www.tomitribe.com/blog/2016/06/microprofile/'
+    title: "MicroProfile: Optimizing Enterprise Java for a Microservices architecture"
+    date: '2016-06-27'
+    author: dblevins
+    image: 'http://tomitribe-website.s3.amazonaws.com/wordpress/2016/06/MicroProfile_1.jpg'
     tags:
-      - lala
-      - lele
-      - tutu
+      - community
+      - microprofile
+    extract: >
+      Today we are announcing a new collaboration called the MicroProfile.  Together with Red Hat, IBM, Payara, the
+      LJC and all who will join us, we aim to merge innovation and standardization into Enterprise Java with
+      Microservices focus. Microservices in Enterprise Java If you look at all the servers in the Enterprise Java
+      space, particularly Java EE implementations, you see a trend: lighter is better.
+
+  - url: 'http://www.tomitribe.com/blog/2016/06/i-do-not-hate-apache-maven/'
+    title: 'I do not hate Apache Maven'
+    date: '2016-06-30'
+    author: AndyGee
+    image: 'http://tomitribe-website.s3.amazonaws.com/wordpress/2016/06/Maven-blog-andy.jpg'
+    tags:
+      - tips
+      - maven
+    extract: >
+      I recently had an opportunity to hold a few talks at DevoxxUK. This one went down as a treat, so I’d like to
+      share a little depth in this quick blog. Thanks go out to the entire team, but some special thanks to Mark
+      Hazell and Ellie May for organizing a really great event. Awesome work guys! Apache Maven This is a quick and
+      simple take on ensuring that your Apache Maven based project starts and, more importantly, stays lean and clean.
+      It’s a summary of my best practices, and I’m always happy to learn a few more.
+
+  - url: 'http://www.tomitribe.com/blog/2016/07/code-club-the-next-generation-of-coders/'
+    title: 'Code Club: The Next Generation of Coders'
+    date: '2016-07-22'
+    author: jgallimore
+    image: 'http://tomitribe-website.s3.amazonaws.com/wordpress/2016/07/code-club-next-generation.jpg'
+    tags:
+      - volunteer
+      - community
+    extract: >
+      Code Club is a non-profit organization here in the UK that aims at creating a volunteer-led after-school
+      coding club for 9-11 year olds in every primary school across the UK. Each club typically runs for one hour
+      after school, and meets up every week. Coding is featuring more and more on the school curriculum these days,
+      and running a Code Club is a great way to invest in the education of the next generation.
+
+  - url: '2016/09/microprofile-at-javaone'
+    title: 'Announcing MicroProfile 1.0'
+    date: '2016-06-27'
+    author: dblevins
+    tags:
+      - microprofile
     extract: >
       We would like to officially announce MicroProfile 1.0! In only three months, as promised, we have gone from an
       announced collaboration to delivering multiple implementations. We have agreed on a base set of features that
       defines solid and stable roots on which to grow, grown to 6 implementations, and have added multiple member
       organizations and contributors.
 
-  - url: 2016/09/blog-test.adoc
-    title: 'Test One'
-    date: '2017-01-21'
+  - url: '2017/04/lorem_ipsum'
+    title: 'Lorem ipsum dolor sit amet'
+    date: '2017-04-10'
     author: dblevins
     tags:
-      - tutu
+      - lorem_ipsum
     extract: >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vulputate urna ac tortor congue venenatis.
-      Curabitur a nulla quis mauris accumsan pulvinar.
-
-  - url: 2016/09/no_title.adoc
-    title: 'Test Two'
-    date: '2017-02-11'
-    author: tveronezi
-    tags:
-      - papa
-    extract: >
-      Aliquam sit amet posuere enim. Donec eget cursus dui. Suspendisse rhoncus eros vitae augue rhoncus, vel sodales
-      ex aliquam. Suspendisse potenti.
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent gravida
+      cursus imperdiet. Etiam venenatis sodales lectus ac posuere. Quisque id dui
+      euismod, pellentesque augue finibus, pellentesque risus.
