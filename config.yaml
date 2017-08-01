@@ -84,6 +84,10 @@ blog:
     title: 'Reanalyzing the State of Java EE'
     date: '2016-12-19'
     author: 'jclingan'
+    extract: >
+      I was recently pointed to Gartner’s Market Guide to Application Platforms report, written by Anne Thomas and
+      Aasish Gupta. The report takes a very negative view of Java EE to the point that I thought I was reading an
+      obituary. To summarize their report, “Run, Run Away” from Java EE. Hey, if I ever grew up, it was in the 80s.
 
   - url: 'http://middlewareblog.redhat.com/2016/12/16/its-official-microprofile-is-now-eclipse-microprofile/'
     title: 'It’s Official: MicroProfile Is Now Eclipse MicroProfile'
@@ -99,6 +103,11 @@ blog:
     title: 'The MicroProfile at Devoxx: Learning Our Way Forward'
     date: '2016-11-21'
     author: 'mikecroft'
+    extract: >
+      2016 has been a bit of a wild ride, to say the least. Lots of major things have happened politically and in
+      popular culture. Considering the world of Java and its related ecosystems, we've seen a lot of activity too,
+      with announcements about the delay of Java 9, the concerns raised by the Java EE Guardians (shared by many),
+      and a largely unprecedented move in the establishment of the MicroProfile initiative.
 
   - url: 'http://johnclingan.com/2016/10/19/javaee-incremental-roadmap/'
     title: 'Proposing an Incremental Java EE Roadmap'
@@ -119,6 +128,12 @@ blog:
     title: 'Payara MicroProfile 1.0 Released'
     date: '2016-09-19'
     author: 'smillidge'
+    extract: >
+      Back in June we announced MicroProfile with RedHat, IBM, Tomitribe, LJC and SouJava and Microprofile.io was
+      launched as a location for community collaboration on Enterprise Java Microservices. In the announcement each of
+      the vendors promised to have a MicroProfile runtime ready and available in time for JavaOne. Well  after much
+      beavering away here in the Payara Engineering team we have just pushed onto Maven Central our 1.0 release of
+      Payara MicroProfile.
 
   - url: 'http://wildfly-swarm.io/posts/microprofile-with-wildfly-swarm/'
     title: 'MicroProfile with WildFly Swarm'
