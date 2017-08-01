@@ -1,69 +1,64 @@
 %YAML 1.2
 ---
 blog:
-  - url: 'http://www.tomitribe.com/blog/2016/06/microprofile/'
-    title: "MicroProfile: Optimizing Enterprise Java for a Microservices architecture"
-    date: '2016-06-27'
-    author: dblevins
-    image: 'http://tomitribe-website.s3.amazonaws.com/wordpress/2016/06/MicroProfile_1.jpg'
+  - url: 'http://middlewareblog.redhat.com/2017/07/27/swaggeropenapi-for-enterprise-java-microservices/'
+    title: 'Swagger/OpenAPI for Enterprise Java microservices'
+    date: '2017-07-27'
+    author: 'Cesar Saavedra'
     tags:
       - community
-      - microprofile
+      - microservices
     extract: >
-      Today we are announcing a new collaboration called the MicroProfile.  Together with Red Hat, IBM, Payara, the
-      LJC and all who will join us, we aim to merge innovation and standardization into Enterprise Java with
-      Microservices focus. Microservices in Enterprise Java If you look at all the servers in the Enterprise Java
-      space, particularly Java EE implementations, you see a trend: lighter is better.
+      On June 13, 2017, SmartBear joined the Eclipse
+      MicroProfile project, an open source community specification for Enterprise Java microservices. As someone
+      interested in microservices, why is this news important?
 
-  - url: 'http://www.tomitribe.com/blog/2016/06/i-do-not-hate-apache-maven/'
-    title: 'I do not hate Apache Maven'
-    date: '2016-06-30'
-    author: AndyGee
-    image: 'http://tomitribe-website.s3.amazonaws.com/wordpress/2016/06/Maven-blog-andy.jpg'
-    tags:
-      - tips
-      - maven
-    extract: >
-      I recently had an opportunity to hold a few talks at DevoxxUK. This one went down as a treat, so I’d like to
-      share a little depth in this quick blog. Thanks go out to the entire team, but some special thanks to Mark
-      Hazell and Ellie May for organizing a really great event. Awesome work guys! Apache Maven This is a quick and
-      simple take on ensuring that your Apache Maven based project starts and, more importantly, stays lean and clean.
-      It’s a summary of my best practices, and I’m always happy to learn a few more.
-
-  - url: 'http://www.tomitribe.com/blog/2016/07/code-club-the-next-generation-of-coders/'
-    title: 'Code Club: The Next Generation of Coders'
-    date: '2016-07-22'
-    author: jgallimore
-    image: 'http://tomitribe-website.s3.amazonaws.com/wordpress/2016/07/code-club-next-generation.jpg'
-    tags:
-      - volunteer
-      - community
-    extract: >
-      Code Club is a non-profit organization here in the UK that aims at creating a volunteer-led after-school
-      coding club for 9-11 year olds in every primary school across the UK. Each club typically runs for one hour
-      after school, and meets up every week. Coding is featuring more and more on the school curriculum these days,
-      and running a Code Club is a great way to invest in the education of the next generation.
-
-  - url: '2016/09/microprofile-at-javaone'
-    title: 'Announcing MicroProfile 1.0'
-    date: '2016-06-27'
-    author: dblevins
+  - url: 'https://mikecroft.io/2017/07/11/microprofile-1-year-on.html'
+    title: 'The MicroProfile Turns One'
+    date: '2017-07-11'
+    author: mikecroft
+    image: 'http://mikecroft.io/assets/mp-announcement.jpg'
     tags:
       - microprofile
     extract: >
-      We would like to officially announce MicroProfile 1.0! In only three months, as promised, we have gone from an
-      announced collaboration to delivering multiple implementations. We have agreed on a base set of features that
-      defines solid and stable roots on which to grow, grown to 6 implementations, and have added multiple member
-      organizations and contributors.
+      As I write this blog post, on Tuesday 27th June 2017, I’m looking through memories of where I was on this day
+      in 2016: participating in the keynote speech at Red Hat’s DevNation conference in San Francisco.
 
-  - url: '2017/04/lorem_ipsum'
-    title: 'Lorem ipsum dolor sit amet'
-    date: '2017-04-10'
-    author: dblevins
-    image: '2017/04/sunset.jpg'
+  - url: 'http://sdtimes.com/eclipse-microprofile-optimizes-java-ee/'
+    title: 'Industry Spotlight: Eclipse MicroProfile optimizes Java EE'
+    date: '2017-05-31'
+    author: 'Lisa Morgan'
     tags:
-      - lorem_ipsum
+      - news
     extract: >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent gravida
-      cursus imperdiet. Etiam venenatis sodales lectus ac posuere. Quisque id dui
-      euismod, pellentesque augue finibus, pellentesque risus.
+      From [Lisa Morgan] Java EE developers are now experimenting with microservices and they need a coherent way to
+      optimize their development efforts. Over the years, Java EE has supported distributed application architectures
+      based on RMI/IIOP, Web Services and REST. The Eclipse MicroProfile project is the next step in that evolution
+      because it optimizes enterprise Java for a microservices architecture.
+
+  - url: 'https://developers.redhat.com/video/youtube/YGC2b8k2nfg/'
+    title: 'MicroProfile: Optimizing Java EE for a microservices architecture'
+    date: '2016-05-15'
+    author: 'developers.redhat.com'
+    tags:
+      - microprofile
+      - video
+    extract: >
+      Hear from John Clingan, Sr. Principal Product Manager, Red Hat, and Ken Finnigan,
+      Red Hat in this breakout session at Red Hat Summit 2017. MicroProfile is a community-led effort to bring
+      microservices to Java Platform, Enterprise Edition (Java EE) across multiple implementations, including WildFly
+      Swarm, IBM WebSphere Application Server Liberty Profile, Apache TomEE, Payara Micro, and Hammock.
+
+  - url: 'http://middlewareblog.redhat.com/2017/05/02/eclipse-microprofile-continues-its-growth-in-the-market/'
+    title: 'Eclipse MicroProfile continues its growth in the market'
+    date: '2017-05-02'
+    author: 'Cesar Saavedra'
+    tags:
+      - news
+    extract: >
+      Organizations that have already embarked or are thinking about starting a digital transformation journey are
+      assessing and looking for ways to leverage their Java EE expertise. IT development and operations have built
+      Java expertise over years, and there is a challenge to balance their existing skill base with new digitally
+      transformative technologies, such as microservices, APIs, container-based architectures, and reactive programming.
+      Eclipse MicroProfile is an open source project and one of those digitally transformative technologies that
+      enables and optimizes the development of microservices — using familiar Java EE technologies and APIs.
