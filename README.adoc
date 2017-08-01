@@ -1,0 +1,63 @@
+
+= microprofile-blog
+
+This project holds the configuration and blog entries for http://microprofile.io/blog[].
+
+== Format
+
+All blog posts must be in asciidoc format.  See the http://asciidoctor.org/docs/asciidoc-writers-guide[Asciidoc Writers Guide]
+for a great library of well curated information on writing docs in Asciidoc, including syntax and tips.
+
+== Workflow
+
+All posts are published within five minutes of reaching this git repo. Best approach is not to push to this repo
+directly and instead fork it and create a pull request. Once the pull request has been reviewed by a few members of
+MicroProfile it can be published by merging the PR.
+
+You can test it with your own fork and localhost. Clone https://github.com/microprofile/microprofile-site[] and execute
+`mvn clean install tomee:run` from its root directory after creating a `microprofile-site/src/main/resources/base.properties` file like
+
+[source,properties]
+----
+microprofile_config_root=microprofile/microprofile-site-config
+
+# replace tveronezi/microprofile-blog by your own fork of microprofile/microprofile-blog
+microprofile_blog_root=tveronezi/microprofile-blog
+
+microprofile_github_atoken=<YOUR GITHUB TOKEN HERE>
+----
+
+== How to publish a new blog post?
+
+Edit the blog https://github.com/microprofile/microprofile-blog/blob/master/config.yaml[config file]. This is a `yaml` file
+that lists all the blog entries.
+
+[source,yaml]
+----
+- url: 'http://middlewareblog.redhat.com/2017/07/27/swaggeropenapi-for-enterprise-java-microservices/'
+  title: 'Swagger/OpenAPI for Enterprise Java microservices'
+  date: '2017-07-27'
+  author: 'Cesar Saavedra'
+  tags:
+    - community
+    - microservices
+  extract: >
+    On June 13, 2017, SmartBear joined the Eclipse
+    MicroProfile project, an open source community specification for Enterprise Java microservices. As someone
+    interested in microservices, why is this news important?
+----
+
+* `url` is a mandatory field that can contain the full path to an external blog system
+(ex: `'http://middlewareblog.redhat.com/2017/07/27/swaggeropenapi-for-enterprise-java-microservices/'`) or relative path
+to our own blog system (ex: `2016/09/microprofile-at-javaone`).
+* `title` is a mandatory simple text field.
+* `date` is a mandatory published date field with `yyyy-mm-dd` format.
+* `author` is a mandatory text field. If its a github account, the system will load the author information from github.
+* `tags` is where we list all tags for one blog post.
+* `extract` is a multiline field with a extract of what the blog post contains.
+
+=== Posting blog entry hosted by microprofile.io
+
+Simply use the relative path to the asciidoc file that contains the blog entry. For example, inorder to publish
+`2016/09/microprofile-at-javaone.adoc` located in this `microprofile-blog` project, use `2016/09/microprofile-at-javaone`
+in the `url` field.
