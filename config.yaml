@@ -119,7 +119,7 @@ blog:
     date: '2016-09-17'
     author: 'nmcl'
 
-  - url: 'blog/2016/09/microprofile-at-javaone'
+  - url: '2016/09/microprofile-at-javaone'
     title: 'Announcing MicroProfile 1.0'
     date: '2016-09-17'
     author: 'dblevins'
