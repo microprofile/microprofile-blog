@@ -1,0 +1,23 @@
+= Lorem ipsum dolor sit amet
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent gravida
+cursus imperdiet. Etiam venenatis sodales lectus ac posuere. Quisque id dui
+euismod, pellentesque augue finibus, pellentesque risus. Integer vel tortor
+accumsan, varius metus ac, porta lorem. Mauris at metus vel nisi sollicitudin
+pulvinar nec quis odio. Suspendisse imperdiet, arcu eu pretium tristique,
+ligula felis fermentum ligula, ut mollis nisl sem eget libero. Proin
+porttitor arcu at accumsan tincidunt.
+
+image::sunset.jpg[Sunset,500, 300]
+
+Nulla enim lorem, vestibulum a magna id, consectetur venenatis est.
+Class aptent taciti sociosqu ad litora torquent per conubia nostra,
+per inceptos himenaeos. Sed ut porta mi. Vivamus at dignissim tortor,
+ut vulputate mauris. Vivamus laoreet nisi quis felis auctor, at vulputate
+sapien auctor. Proin nec ultrices sapien, nec posuere est. Suspendisse
+molestie luctus fringilla. Integer ac lacus et libero malesuada rhoncus.
+Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere
+cubilia Curae; Sed mattis lectus sed pharetra ornare. Ut vulputate lacus
+vel neque feugiat porttitor. Praesent luctus commodo urna. Nam suscipit
+semper rutrum. Proin nec vehicula tortor, non elementum ex. Duis rutrum
+diam sed imperdiet aliquam.

@@ -1,0 +1,191 @@
+%YAML 1.2
+---
+blog:
+  - url: 'http://middlewareblog.redhat.com/2017/07/27/swaggeropenapi-for-enterprise-java-microservices/'
+    title: 'Swagger/OpenAPI for Enterprise Java microservices'
+    date: '2017-07-27'
+    author: 'Cesar Saavedra'
+    tags:
+      - community
+      - microservices
+    extract: >
+      On June 13, 2017, SmartBear joined the Eclipse
+      MicroProfile project, an open source community specification for Enterprise Java microservices. As someone
+      interested in microservices, why is this news important?
+
+  - url: 'https://mikecroft.io/2017/07/11/microprofile-1-year-on.html'
+    title: 'The MicroProfile Turns One'
+    date: '2017-07-11'
+    author: 'mikecroft'
+    image: 'http://mikecroft.io/assets/mp-announcement.jpg'
+    tags:
+      - microprofile
+    extract: >
+      As I write this blog post, on Tuesday 27th June 2017, I’m looking through memories of where I was on this day
+      in 2016: participating in the keynote speech at Red Hat’s DevNation conference in San Francisco.
+
+  - url: 'http://sdtimes.com/eclipse-microprofile-optimizes-java-ee/'
+    title: 'Industry Spotlight: Eclipse MicroProfile optimizes Java EE'
+    date: '2017-05-31'
+    author: 'Lisa Morgan'
+    tags:
+      - news
+    extract: >
+      Java EE developers are now experimenting with microservices and they need a coherent way to
+      optimize their development efforts. Over the years, Java EE has supported distributed application architectures
+      based on RMI/IIOP, Web Services and REST. The Eclipse MicroProfile project is the next step in that evolution
+      because it optimizes enterprise Java for a microservices architecture.
+
+  - url: 'https://developers.redhat.com/video/youtube/YGC2b8k2nfg/'
+    title: 'MicroProfile: Optimizing Java EE for a microservices architecture'
+    date: '2016-05-15'
+    author: 'developers.redhat.com'
+    tags:
+      - microprofile
+      - video
+    extract: >
+      Hear from John Clingan, Sr. Principal Product Manager, Red Hat, and Ken Finnigan,
+      Red Hat in this breakout session at Red Hat Summit 2017. MicroProfile is a community-led effort to bring
+      microservices to Java Platform, Enterprise Edition (Java EE) across multiple implementations, including WildFly
+      Swarm, IBM WebSphere Application Server Liberty Profile, Apache TomEE, Payara Micro, and Hammock.
+
+  - url: 'http://middlewareblog.redhat.com/2017/05/02/eclipse-microprofile-continues-its-growth-in-the-market/'
+    title: 'Eclipse MicroProfile continues its growth in the market'
+    date: '2017-05-02'
+    author: 'Cesar Saavedra'
+    tags:
+      - news
+    extract: >
+      Organizations that have already embarked or are thinking about starting a digital transformation journey are
+      assessing and looking for ways to leverage their Java EE expertise. IT development and operations have built
+      Java expertise over years, and there is a challenge to balance their existing skill base with new digitally
+      transformative technologies, such as microservices, APIs, container-based architectures, and reactive programming.
+      Eclipse MicroProfile is an open source project and one of those digitally transformative technologies that
+      enables and optimizes the development of microservices — using familiar Java EE technologies and APIs.
+
+  - url: 'http://markclittle.blogspot.co.uk/2017/01/a-java-ee-interlude.html'
+    title: 'A Java EE Interlude'
+    date: '2017-01-02'
+    author: 'nmcl'
+    tags:
+      - microprofile
+    extract: >
+      I want to take a quick break from the other series for a moment to do something I've been remiss about for a
+      while: addressing a recent report by Gartner on the state of Java EE. Before doing so I decided the other day to
+      read the article my friend and colleague John Clingan made a few weeks ago and I realised that John had done a
+      great job already.
+
+  - url: 'http://johnclingan.com/2016/12/29/java-ee-in-2016-tumult-java-ee-in-2017-opportunity/'
+    title: 'Java EE in 2016: Tumult. Java EE in 2017: Opportunity'
+    date: '2016-12-29'
+    author: 'jclingan'
+
+  - url: 'http://johnclingan.com/2016/12/19/reanalyzing-the-state-of-java-ee/'
+    title: 'Reanalyzing the State of Java EE'
+    date: '2016-12-19'
+    author: 'jclingan'
+    extract: >
+      I was recently pointed to Gartner’s Market Guide to Application Platforms report, written by Anne Thomas and
+      Aasish Gupta. The report takes a very negative view of Java EE to the point that I thought I was reading an
+      obituary. To summarize their report, “Run, Run Away” from Java EE. Hey, if I ever grew up, it was in the 80s.
+
+  - url: 'http://middlewareblog.redhat.com/2016/12/16/its-official-microprofile-is-now-eclipse-microprofile/'
+    title: 'It’s Official: MicroProfile Is Now Eclipse MicroProfile'
+    date: '2016-12-16'
+    author: 'jclingan'
+
+  - url: 'https://developers.redhat.com/video/youtube/4YOYk6Aqmxw/'
+    title: 'Microservices'
+    date: '2016-12-02'
+    author: 'nmcl'
+
+  - url: 'http://blog.payara.fish/the-microprofile-at-devoxx-learning-our-way-forward'
+    title: 'The MicroProfile at Devoxx: Learning Our Way Forward'
+    date: '2016-11-21'
+    author: 'mikecroft'
+    extract: >
+      2016 has been a bit of a wild ride, to say the least. Lots of major things have happened politically and in
+      popular culture. Considering the world of Java and its related ecosystems, we've seen a lot of activity too,
+      with announcements about the delay of Java 9, the concerns raised by the Java EE Guardians (shared by many),
+      and a largely unprecedented move in the establishment of the MicroProfile initiative.
+
+  - url: 'http://johnclingan.com/2016/10/19/javaee-incremental-roadmap/'
+    title: 'Proposing an Incremental Java EE Roadmap'
+    date: '2016-10-19'
+    author: 'jclingan'
+
+  - url: 'https://developer.jboss.org/blogs/mark.little/2016/09/17/to-microprofile-10-and-beyond'
+    title: 'To MicroProfile 1.0 and Beyond'
+    date: '2016-09-17'
+    author: 'nmcl'
+
+  - url: '2016/09/microprofile-at-javaone'
+    title: 'Announcing MicroProfile 1.0'
+    date: '2016-09-17'
+    author: 'dblevins'
+
+  - url: 'http://blog.payara.fish/payara-micro-profile-1.0-released'
+    title: 'Payara MicroProfile 1.0 Released'
+    date: '2016-09-19'
+    author: 'smillidge'
+    extract: >
+      Back in June we announced MicroProfile with RedHat, IBM, Tomitribe, LJC and SouJava and Microprofile.io was
+      launched as a location for community collaboration on Enterprise Java Microservices. In the announcement each of
+      the vendors promised to have a MicroProfile runtime ready and available in time for JavaOne. Well  after much
+      beavering away here in the Payara Engineering team we have just pushed onto Maven Central our 1.0 release of
+      Payara MicroProfile.
+
+  - url: 'http://wildfly-swarm.io/posts/microprofile-with-wildfly-swarm/'
+    title: 'MicroProfile with WildFly Swarm'
+    date: '2016-09-14'
+    author: 'kenfinnigan'
+
+  - url: 'https://www.infoq.com/news/2016/07/java-ee-microprofile'
+    title: 'Java EE Vendors and the London JUG Announce New MicroProfile'
+    date: '2016-07-15'
+    author: 'Abraham Marín Pérez'
+
+  - url: 'http://planet.jboss.org/post/the_microprofile'
+    title: 'The MicroProfile'
+    date: '2016-07-04'
+    author: 'nmcl'
+
+  - url: 'https://developers.redhat.com/video/youtube/MiUrYH3ybX0/'
+    title: 'DevNation Morning General Session (Raw and un-cut)'
+    date: '2016-07-01'
+    author: 'Red Hat Developer Program'
+
+  - url: 'https://dzone.com/articles/announcing-java-ee-microprofile'
+    title: 'Announcing Java EE Microprofile'
+    date: '2016-06-29'
+    author: 'G. Ryan Spain'
+
+  - url: 'https://developers.redhat.com/blog/2016/06/27/microprofile-collaborating-to-bring-microservices-to-enterprise-java/'
+    title: 'MicroProfile – Collaborating to bring Microservices to Enterprise Java'
+    date: '2016-06-27'
+    author: 'Rich Sharples'
+
+  - url: 'http://blog.payara.fish/payara-red-hat-ibm-tomitribe-ljc-collaborate-to-bring-microservices-to-enterprise-java'
+    title: 'Payara Collaborates with Red Hat, IBM, Tomitribe & LJC to Bring Microservices to Enterprise Java'
+    date: '2016-06-27'
+    author: 'Dominika Tasarz'
+
+  - url: 'https://antoniogoncalves.org/2016/06/27/micro-profile-in-enterprise-java-announced/'
+    title: 'Micro Profile in Enterprise Java Announced!'
+    date: '2016-06-27'
+    author: 'agoncal'
+
+  - url: 'https://developer.ibm.com/wasdev/blog/2016/06/27/microprofile-announce/'
+    title: 'MicroProfile an open collaboration for Enterprise Java based Microservices'
+    date: '2016-06-27'
+    author: 'NottyCode'
+
+  - url: 'http://www.tomitribe.com/blog/2016/06/microprofile/'
+    title: 'MicroProfile: Optimizing Enterprise Java for a Microservices architecture'
+    date: '2016-06-27'
+    author: 'dblevins'
+
+  - url: 'http://blog.payara.fish/swimming-upstream-moving-forward-with-eclipse-microprofile-and-jdk-8'
+    title: 'Swimming Upstream: Moving Forward with Eclipse MicroProfile and JDK 8'
+    date: '2016-06-28'
+    author: 'mikecroft'

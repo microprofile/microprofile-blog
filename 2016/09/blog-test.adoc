@@ -1,7 +1,0 @@
-# Testing
-
-This is a test blog post
-
-## Another heading
-
-Cool things are happening, stay tuned!
