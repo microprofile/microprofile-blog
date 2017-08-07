@@ -189,3 +189,13 @@ blog:
     title: 'Swimming Upstream: Moving Forward with Eclipse MicroProfile and JDK 8'
     date: '2017-07-28'
     author: 'mikecroft'
+
+  - url: '2017/08/eclipse-microprofile-1.1-available'
+    title: 'Eclipse MicroProfile 1.1 is now available'
+    date: '2017-08-08'
+    author: 'Cesar Saavedra'
+
+  - url: '2017/08/eclipse-microProfile-has-a-brand-new-logo'
+    title: 'Eclipse MicroProfile Has a Brand New Logo'
+    date: '2017-08-08'
+    author: 'Cesar Saavedra'
