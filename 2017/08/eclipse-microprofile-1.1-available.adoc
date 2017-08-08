@@ -21,13 +21,19 @@ image::MicroProfile1.x.png[1_x]
 
 
 
-For more information on: 
+For more information on MicroProfile 1.1, please refer to:
 
-* MicroProfile 1.1, please refer to: https://github.com/eclipse/microprofile-bom[MicroProfile BOM]
-* Config 1.0, please check:
-** http://microprofile.io/project/eclipse/microprofile-config[Configuration for MicroProfile]
-** https://github.com/eclipse/microprofile-config/releases/tag/1.0[Download MicroProfile Config]
-* For more information on MicroProfile, please visit: http://microprofile.io[MicroProfile Website]
-* For MicroProfile roadmap and upcoming release trains, please go to: https://projects.eclipse.org/projects/technology.microprofile[MicroProfile Roadmap]
+* https://github.com/eclipse/microprofile-bom[MicroProfile BOM]
+* http://microprofile.io[MicroProfile 1.1 Spec (PDF)]
 
+For more information on Config 1.0, please check:
 
+* http://microprofile.io/project/eclipse/microprofile-config[Configuration for MicroProfile]
+* https://github.com/eclipse/microprofile-config/releases/tag/1.0[Download MicroProfile Config]
+
+For more information on MicroProfile, please visit:
+
+* http://microprofile.io[MicroProfile Website]
+
+For MicroProfile roadmap and upcoming release trains, please go to:
+* https://projects.eclipse.org/projects/technology.microprofile[MicroProfile Roadmap]
