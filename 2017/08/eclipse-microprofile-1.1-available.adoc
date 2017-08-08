@@ -35,4 +35,5 @@ For more information on MicroProfile, please visit:
 * http://microprofile.io[MicroProfile Website]
 
 For MicroProfile roadmap and upcoming release trains, please go to:
+
 * https://projects.eclipse.org/projects/technology.microprofile[MicroProfile Roadmap]
