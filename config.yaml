@@ -195,8 +195,9 @@ blog:
     date: '2017-08-08'
     author: 'Cesar Saavedra'
     extract: >
-      Version 1.1 adds a brand new Config API. The stack will now be Config 1.0, CDI 1.2, JSON-P 1.0 and JAX-RS 2.0.1.
-      Download the specification PDF to learn more about the architecture and required APIs.
+      Eclipse MicroProfile 1.1, which builds on the 1.0 version, adds a brand new Config API. Eclipse MicroProfile
+      Config addresses this challenge by defining the framework and APIs to easily set and manage environment
+      configurations for Enterprise Java microservices.
 
   - url: '2017/08/eclipse-microProfile-has-a-brand-new-logo'
     title: 'Eclipse MicroProfile Has a Brand New Logo'
