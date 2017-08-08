@@ -15,7 +15,7 @@ Benefits of MicroProfile 1.1 are:
 * Interoperability across different implementations of MicroProfile 1.1 provides users the freedom to select one or combine many MicroProfile implementations in an application
 * A thorough set of artifacts for Config 1.0, including a Test Compatibility Kit (TCK), Javadoc, PDF document for download, API Maven artifact coordinates, Git tag, and downloads (spec and source code)
 
-Eclipse MicroProfile continues to deliver incremental value with each release and to successfully evolve with the dynamic help of all its community members. Future release will update existing APIs and add new ones:
+Eclipse MicroProfile continues to deliver incremental value with each releases and to successfully evolve with the dynamic help of all its community members. Future release will update existing APIs and add new ones:
 
 image::MicroProfile1.x.png[1_x]
 
