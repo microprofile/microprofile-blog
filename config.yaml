@@ -1,6 +1,16 @@
 %YAML 1.2
 ---
 blog:
+  - url: 'https://developer.ibm.com/wasdev/blog/2017/08/09/microprofile-1-1-announced/'
+    title: 'MicroProfile 1.1 announced!'
+    date: '2017-09-27'
+    author: 'Kevin Sutter'
+    tags:
+      - community
+      - microservices
+    extract: >
+     At yesterday’s Eclipse MicroProfile public hangout, we had two major announcements: First, that we have announced the content for the next major MicroProfile 1.1 release and, second, that we have a new MicroProfile logo.
+
   - url: 'http://middlewareblog.redhat.com/2017/07/27/swaggeropenapi-for-enterprise-java-microservices/'
     title: 'Swagger/OpenAPI for Enterprise Java microservices'
     date: '2017-07-27'
