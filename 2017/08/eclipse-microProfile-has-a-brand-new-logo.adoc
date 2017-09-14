@@ -1,0 +1,20 @@
+= Eclipse MicroProfile Has a Brand New Logo
+
+Eclipse MicroProfile, an open forum to optimize Enterprise Java for a microservices architecture by innovating across multiple implementations and collaborating on common areas of interest with a goal of standardization, would like to announce its brand new logo.
+
+A few months ago, community members decided that our logo needed to be revamped. A call for graphic design volunteers was issued. Three design teams stepped forward to accept the challenge of designing a revamped logo, which would encapsulate the following themes:
+
+* Open collaboration
+* Open technology
+* Community
+* Innovative - leading edge, high-tech and slick 
+* Modern - having “cool” factor 
+* Microservices architecture
+* Agility
+* Vendor-neutral; no resemblances to any vendor’s logo
+
+Through collaboration and teamwork, the design teams came up with their own versions of the revamped logo. Once all their proposals were complete, they were all put in the same layouts and blinded for subsequent voting. Opened to all community members, the voting period was from July 10 through July 21, 2017.
+
+All the proposals were great and we want to give a big “Thank You” to the design teams from Red Hat, IBM, and Tomitribe for spending the time and effort on creating options for the revamped logo.  The decision was hard to make (it was for me, for sure!). And after collecting and tallying all the votes, the winner is ...
+
+image::MP-logo-w-tagline.jpg[New Logo]
