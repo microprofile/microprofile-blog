@@ -216,3 +216,10 @@ blog:
     extract: >
       A few months ago, community members decided that our logo needed to be revamped. A call for graphic design
       volunteers was issued. Three design teams stepped forward to accept the challenge of designing a revamped logo…
+      
+  - url: '2017/10/eclipse-microprofile-1.2-available'
+    title: 'Eclipse MicroProfile 1.2 is now available'
+    date: '2017-10-03'
+    author: 'Cesar Saavedra'
+    extract: >
+      Eclipse MicroProfile, an open forum to collaborate on Enterprise Java Microservices, would like to announce the release of Eclipse MicroProfile 1.2.
