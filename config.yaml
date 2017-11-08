@@ -223,3 +223,10 @@ blog:
     author: 'Cesar Saavedra'
     extract: >
       Eclipse MicroProfile, an open forum to collaborate on Enterprise Java Microservices, would like to announce the release of Eclipse MicroProfile 1.2.
+      
+  - url: '2017/11/microprofile-welcomes-oracle'
+    title: 'Eclipse MicroProfile welcomes Oracle to its community'
+    date: '2017-11-08'
+    author: 'Cesar Saavedra'
+    extract: >
+      Oracle has officially joined the group of prestigious member organizations that are supporting the Eclipse MicroProfile initiative. Oracle has been maintaining and running the Java EE standard for over fifteen years
