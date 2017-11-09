@@ -226,7 +226,10 @@ blog:
       
   - url: '2017/11/microprofile-welcomes-oracle'
     title: 'Eclipse MicroProfile welcomes Oracle to its community'
-    date: '2017-11-08'
+    date: '2017-11-09'
     author: 'Cesar Saavedra'
+    tags:
+      - community
+      - news
     extract: >
-      Oracle has officially joined the group of prestigious member organizations that are supporting the Eclipse MicroProfile initiative. Oracle has been maintaining and running the Java EE standard for over fifteen years
+      Oracle has officially joined the group of prestigious member organizations that are supporting the Eclipse MicroProfile initiative. Oracle has been maintaining and running the Java EE standard for over fifteen years…
