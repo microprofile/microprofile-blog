@@ -233,3 +233,23 @@ blog:
       - news
     extract: >
       Oracle has officially joined the group of prestigious member organizations that are supporting the Eclipse MicroProfile initiative. Oracle has been maintaining and running the Java EE standard for over fifteen years…
+      
+  - url: 'https://developers.redhat.com/blog/2017/11/14/microprofile-eclipsecon-europe/'
+    title: 'MicroProfile at EclipseCon Europe'
+    date: '2017-11-14'
+    author: 'Heiko Rupp'
+    tags:
+      - community
+      - news
+    extract: >
+      EclipseCon Europe happened in October 2017 in Ludwigsburg, Germany and featured a ton of Red Hat speakers…
+      
+  - url: 'https://dzone.com/articles/building-your-next-microservice-with-eclipse-micro'
+    title: 'Building Your Next Microservice With Eclipse MicroProfile'
+    date: '2017-11-14'
+    author: 'John Ament'
+    tags:
+      - community
+      - news
+    extract: >
+      This quick tutorial will show you how to build your next microservice with the recently updated Eclipse MicroProfile APIs…
