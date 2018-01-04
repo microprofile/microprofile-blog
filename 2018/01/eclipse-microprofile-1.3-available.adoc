@@ -1,0 +1,39 @@
+= Eclipse MicroProfile 1.3 is Now Available
+
+Eclipse MicroProfile, an open forum to collaborate on Enterprise Java Microservices, would like to announce the release of Eclipse MicroProfile 1.3.
+
+Eclipse MicroProfile 1.3, which builds on the 1.2 version, updates the Config and the Metrics APIs and adds the OpenAPI, OpenTracing, and Rest Client APIs.
+
+image::MicroProfile1.3WithLegend.png[1_3]
+
+In a microservices architecture, the management of microservices can become a daunting task as microservices increase in numbers. Microservices can be managed via their APIs, which can be described in languages, such as the Open API Specification (ex-Swagger Description Language). Management, security, load balancing, and throttling are some of the types of policies that can be applied to APIs fronting microservices. This MicroProfile OpenAPI specification aims to provide a set of Java interfaces and programming models which allow Java developers to natively produce OpenAPI v3 documents from their JAX-RS applications.
+
+Tracing the flow of a request in a distributed environment has always been challenging but it is even more complex in a microservices architecture, where requests traverse across not just architectural tiers but also multiple services. The MicroProfile OpenTracing API provides a standard for instrumenting microservices for distributed tracing.
+
+Lastly, the MicroProfile Rest Client API provides a type-safe approach to invoke RESTful services over HTTP in a consistent and easy-to-reuse fashion.
+
+Benefits of MicroProfile 1.3 are:
+
+* Additional features offering more functionality for implementing Enterprise Java microservices.
+* MicroProfile OpenAPI provides the capability to easily specify the automatic generation of APIs for microservices using the OpenAPI standard, allowing microservices to be managed by API Management solutions. 
+* MicroProfile OpenTracing makes it easy to instrument services with distributed tracing function, given an existing underlying distributed tracing system in the environment. This permits the tracing of requests flowing through a microservices architecture using your existing distributed tracing systems.
+* MicroProfile Rest Client API offers a type-safe and consistent way of invoking your microservices.
+* All these APIs offer CDI-based and programmatic easy-to-use interfaces.
+* Interoperability across different MicroProfile implementations provides users the freedom to select one or combine many MicroProfile implementations in an application
+* A thorough set of artifacts for each API, including a Test Compatibility Kit (TCK), Javadoc, PDF document for download, API Maven artifact coordinates, Git tag, and downloads (spec and source code)
+
+Eclipse MicroProfile continues to deliver additional value with each release and to successfully evolve with the dynamic help of all its community members. Future releases will update existing APIs and add new ones. For example, MicroProfile 2.0 is scheduled to deliver:
+
+image::MicroProfile2.0WithLegend.png[2_0]
+
+For more information on MicroProfile 1.3, please refer to:
+
+* https://github.com/eclipse/microprofile-bom/releases/tag/1.3[Eclipse MicroProfile 1.3]
+
+For more information on MicroProfile, please visit:
+
+* http://microprofile.io[MicroProfile Website]
+
+For MicroProfile roadmap and upcoming release trains, please go to:
+
+* https://projects.eclipse.org/projects/technology.microprofile[MicroProfile Roadmap]
