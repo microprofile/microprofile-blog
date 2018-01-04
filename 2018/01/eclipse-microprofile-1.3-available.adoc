@@ -4,7 +4,7 @@ Eclipse MicroProfile, an open forum to collaborate on Enterprise Java Microservi
 
 Eclipse MicroProfile 1.3, which builds on the 1.2 version, updates the Config and the Metrics APIs and adds the OpenAPI, OpenTracing, and Rest Client APIs.
 
-image::MicroProfile1.3WithLegendPic.png[1_3]
+image::MicroProfile1.3WithLegend.png[1_3]
 
 In a microservices architecture, the management of microservices can become a daunting task as microservices increase in numbers. Microservices can be managed via their APIs, which can be described in languages, such as the Open API Specification (ex-Swagger Description Language). Management, security, load balancing, and throttling are some of the types of policies that can be applied to APIs fronting microservices. This MicroProfile OpenAPI specification aims to provide a set of Java interfaces and programming models which allow Java developers to natively produce OpenAPI v3 documents from their JAX-RS applications.
 
@@ -24,7 +24,7 @@ MicroProfile OpenAPI provides the capability to easily specify the automatic gen
 
 Eclipse MicroProfile continues to deliver additional value with each release and to successfully evolve with the dynamic help of all its community members. Future releases will update existing APIs and add new ones. For example, MicroProfile 2.0 is scheduled to deliver:
 
-image::MicroProfile2.0WithLegendPic.png[2_0]
+image::MicroProfile2.0WithLegend.png[2_0]
 
 For more information on MicroProfile 1.3, please refer to:
 
