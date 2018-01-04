@@ -14,8 +14,8 @@ Lastly, the MicroProfile Rest Client API provides a type-safe approach to invoke
 
 Benefits of MicroProfile 1.3 are:
 
-* Additional features offering more functionality for implementing Enterprise Java microservices
-MicroProfile OpenAPI provides the capability to easily specify the automatic generation of APIs for microservices using the OpenAPI standard, allowing microservices to be managed by API Management solutions. 
+* Additional features offering more functionality for implementing Enterprise Java microservices.
+* MicroProfile OpenAPI provides the capability to easily specify the automatic generation of APIs for microservices using the OpenAPI standard, allowing microservices to be managed by API Management solutions. 
 * MicroProfile OpenTracing makes it easy to instrument services with distributed tracing function, given an existing underlying distributed tracing system in the environment. This permits the tracing of requests flowing through a microservices architecture using your existing distributed tracing systems.
 * MicroProfile Rest Client API offers a type-safe and consistent way of invoking your microservices.
 * All these APIs offer CDI-based and programmatic easy-to-use interfaces.
