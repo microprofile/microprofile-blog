@@ -271,3 +271,12 @@ blog:
     extract: >
       Enterprise Java has been defined by two players: Spring on one side and Java Enterprise Edition on the other. The Java EE set of specifications was developed in…
       
+  - url: 'https://developers.redhat.com/blog/2018/01/29/microprofile-1-2-cloud-native-development'
+    title: 'Cloud-native development with Microprofile 1.2'
+    date: '2018-01-29'
+    author: 'Heiko Braun'
+    tags:
+      - community
+      - news
+    extract: >
+      The purpose of this blog post is to provide an overview of the APIs and specifications in the Eclipse Microprofile 1.2 release. In particular, I’ll try to connect these specifications and APIs with their architectural purpose…
