@@ -280,3 +280,43 @@ blog:
       - news
     extract: >
       The purpose of this blog post is to provide an overview of the APIs and specifications in the Eclipse Microprofile 1.2 release. In particular, I’ll try to connect these specifications and APIs with their architectural purpose…
+      
+  - url: 'http://blog.payara.fish/preview-microprofile-fault-tolerance-in-payara-micro'
+    title: 'Preview: MicroProfile Fault Tolerance in Payara Micro'
+    date: '2018-02-01'
+    author: 'Mike Croft'
+    tags:
+      - community
+      - news
+    extract: >
+      Our Payara Engineers have been working very hard on lots of new features ready for our final 5.181 release! One of the key features we intend to deliver is compatibility with MicroProfile 1.2, which will include…
+      
+  - url: 'http://blog.payara.fish/recent-additions-in-microprofile-config-1.1'
+    title: 'Recent Additions in MicroProfile Config 1.1'
+    date: '2018-02-22'
+    author: 'Ondrej Mihályi '
+    tags:
+      - community
+      - news
+    extract: >
+      Configuration is an important aspect of programming. However, a standard approach to it has been missing in Java for a long time. A year ago, the MicroProfile project decided to change that. I'm glad I could be part of it…
+      
+  - url: 'https://developers.redhat.com/blog/2018/03/05/cloud-native-microprofile-config-healthcheck-openshift/'
+    title: 'Develop Cloud-native Applications with MicroProfile (Config & Health Check) and OpenShift'
+    date: '2018-03-05'
+    author: 'Jeff Mesnil'
+    tags:
+      - community
+      - news
+    extract: >
+      A previous article described the specifications in the Eclipse MicroProfile 1.2 release and the benefits for Java-based cloud-native applications. This article shows how software developers writing Java-based microservices can…
+      
+  - url: 'https://developers.redhat.com/blog/2018/03/08/microprofile-fault-tolerance-wildfly-swarm/'
+    title: 'MicroProfile Fault Tolerance in WildFly Swarm'
+    date: '2018-02-01'
+    author: 'Antoine Sabot-Durand'
+    tags:
+      - community
+      - news
+    extract: >
+      Every developer has the goal of building the most resilient application possible. Due to the distributed nature of microservices, resiliency and handling failures gracefully is mandatory. The Java ecosystem has…
