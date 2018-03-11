@@ -313,7 +313,7 @@ blog:
       
   - url: 'https://developers.redhat.com/blog/2018/03/08/microprofile-fault-tolerance-wildfly-swarm/'
     title: 'MicroProfile Fault Tolerance in WildFly Swarm'
-    date: '2018-02-01'
+    date: '2018-03-08'
     author: 'Antoine Sabot-Durand'
     tags:
       - community
