@@ -320,3 +320,14 @@ blog:
       - news
     extract: >
       Every developer has the goal of building the most resilient application possible. Due to the distributed nature of microservices, resiliency and handling failures gracefully is mandatory. The Java ecosystem has…
+
+
+  - url: 'https://openliberty.io/news/2018/03/16/distributed-tracing-microservices-18001.html'
+    title: 'MicroProfile 1.3 in Open Liberty'
+    date: '2018-03-16'
+    author: 'Laura Cowen'
+    tags:
+      - community
+      - news
+    extract: >
+      Get distributed tracking of your microservices, a standardised way (through OpenAPI) to describe your RESTful applications, and a type-safe approach to invoking RESTful services over HTTP in Open Liberty 18.0.0.1.
