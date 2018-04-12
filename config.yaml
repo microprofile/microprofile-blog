@@ -216,14 +216,14 @@ blog:
     extract: >
       A few months ago, community members decided that our logo needed to be revamped. A call for graphic design
       volunteers was issued. Three design teams stepped forward to accept the challenge of designing a revamped logo…
-      
+
   - url: '2017/10/eclipse-microprofile-1.2-available'
     title: 'Eclipse MicroProfile 1.2 is now available'
     date: '2017-10-03'
     author: 'Cesar Saavedra'
     extract: >
       Eclipse MicroProfile, an open forum to collaborate on Enterprise Java Microservices, would like to announce the release of Eclipse MicroProfile 1.2.
-      
+
   - url: '2017/11/microprofile-welcomes-oracle'
     title: 'Eclipse MicroProfile welcomes Oracle to its community'
     date: '2017-11-09'
@@ -233,7 +233,7 @@ blog:
       - news
     extract: >
       Oracle has officially joined the group of prestigious member organizations that are supporting the Eclipse MicroProfile initiative. Oracle has been maintaining and running the Java EE standard for over fifteen years…
-      
+
   - url: 'https://developers.redhat.com/blog/2017/11/14/microprofile-eclipsecon-europe/'
     title: 'MicroProfile at EclipseCon Europe'
     date: '2017-11-14'
@@ -243,7 +243,7 @@ blog:
       - news
     extract: >
       EclipseCon Europe happened in October 2017 in Ludwigsburg, Germany and featured a ton of Red Hat speakers…
-      
+
   - url: 'https://dzone.com/articles/building-your-next-microservice-with-eclipse-micro'
     title: 'Building Your Next Microservice With Eclipse MicroProfile'
     date: '2017-11-14'
@@ -253,14 +253,14 @@ blog:
       - news
     extract: >
       This quick tutorial will show you how to build your next microservice with the recently updated Eclipse MicroProfile APIs…
-      
+
   - url: '2018/01/eclipse-microprofile-1.3-available'
     title: 'Eclipse MicroProfile 1.3 is now available'
     date: '2018-01-03'
     author: 'Cesar Saavedra'
     extract: >
       Eclipse MicroProfile, an open forum to collaborate on Enterprise Java Microservices, would like to announce the release of Eclipse MicroProfile 1.3.
-      
+
   - url: 'https://opensource.com/article/18/1/eclipse-microprofile'
     title: 'An introduction to Eclipse MicroProfile'
     date: '2018-01-05'
@@ -270,7 +270,7 @@ blog:
       - news
     extract: >
       Enterprise Java has been defined by two players: Spring on one side and Java Enterprise Edition on the other. The Java EE set of specifications was developed in…
-      
+
   - url: 'https://developers.redhat.com/blog/2018/01/29/microprofile-1-2-cloud-native-development'
     title: 'Cloud-native development with Microprofile 1.2'
     date: '2018-01-29'
@@ -280,7 +280,7 @@ blog:
       - news
     extract: >
       The purpose of this blog post is to provide an overview of the APIs and specifications in the Eclipse Microprofile 1.2 release. In particular, I’ll try to connect these specifications and APIs with their architectural purpose…
-      
+
   - url: 'http://blog.payara.fish/preview-microprofile-fault-tolerance-in-payara-micro'
     title: 'Preview: MicroProfile Fault Tolerance in Payara Micro'
     date: '2018-02-01'
@@ -290,7 +290,7 @@ blog:
       - news
     extract: >
       Our Payara Engineers have been working very hard on lots of new features ready for our final 5.181 release! One of the key features we intend to deliver is compatibility with MicroProfile 1.2, which will include…
-      
+
   - url: 'http://blog.payara.fish/recent-additions-in-microprofile-config-1.1'
     title: 'Recent Additions in MicroProfile Config 1.1'
     date: '2018-02-22'
@@ -300,7 +300,7 @@ blog:
       - news
     extract: >
       Configuration is an important aspect of programming. However, a standard approach to it has been missing in Java for a long time. A year ago, the MicroProfile project decided to change that. I'm glad I could be part of it…
-      
+
   - url: 'https://developers.redhat.com/blog/2018/03/05/cloud-native-microprofile-config-healthcheck-openshift/'
     title: 'Develop Cloud-native Applications with MicroProfile (Config & Health Check) and OpenShift'
     date: '2018-03-05'
@@ -310,7 +310,7 @@ blog:
       - news
     extract: >
       A previous article described the specifications in the Eclipse MicroProfile 1.2 release and the benefits for Java-based cloud-native applications. This article shows how software developers writing Java-based microservices can…
-      
+
   - url: 'https://developers.redhat.com/blog/2018/03/08/microprofile-fault-tolerance-wildfly-swarm/'
     title: 'MicroProfile Fault Tolerance in WildFly Swarm'
     date: '2018-03-08'
@@ -331,3 +331,23 @@ blog:
       - news
     extract: >
       Get distributed tracking of your microservices, a standardised way (through OpenAPI) to describe your RESTful applications, and a type-safe approach to invoking RESTful services over HTTP in Open Liberty 18.0.0.1.
+
+  - url: 'http://www.tomitribe.com/blog/2018/04/microprofile-fault-tolerance/'
+    title: 'MicroProfile Fault Tolerance'
+    date: '2018-04-04'
+    author: 'Bruno Baptista'
+    tags:
+      - community
+      - news
+    extract: >
+      In order to make microservices more resilient, a few design patterns were devised and developed under the MicroProfile Fault Tolerance umbrella.
+
+  - url: 'http://dplatz.de/blog/2018/microprofile-metrics.html'
+    title: 'MicroProfile Metrics'
+    date: '2018-04-11'
+    author: 'Daniel Platz'
+    tags:
+      - community
+      - news
+    extract: >
+      Introduction to the updated Metrics 1.1 component in the latest MicroProfile 1.3 release.
