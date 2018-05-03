@@ -361,3 +361,13 @@ blog:
       - news
     extract: >
       An interesting read about James' journey in becoming a MicroProfile committer, and why this journey is a good sign for Jakarta EE.
+
+  - url: 'https://tomitribe.com/blog/2018/05/getting-started-with-microprofile-metrics'
+    title: 'Getting Started with Microprofile Metrics'
+    date: '2018-05-02'
+    author: 'Ivan Junckes Filho'
+    tags:
+      - community
+      - news
+    extract: >
+      Learn how Microprofile Metrics can help you monitoring your server and applications in real-time.
