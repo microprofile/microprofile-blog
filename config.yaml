@@ -381,3 +381,13 @@ blog:
       - news
     extract: >
       Launched nearly two years ago, the Eclipse MicroProfile project is moving fast with four releases and eight subspecs having at least two implementations each.
+
+  - url: 'https://medium.com/criciumadev/first-microprofile-io-application-using-java-module-system-33b83ae939c9'
+    title: 'First MicroProfile.io application using Java Module System'
+    date: '2018-06-20'
+    author: 'Leonardo Zanivan'
+    tags:
+      - community
+      - news
+    extract: >
+      Adopt Java 10 and learn how to build and package a MicroProfile application using Java Module System in order to deploy it with a minimal JVM inside a container.
