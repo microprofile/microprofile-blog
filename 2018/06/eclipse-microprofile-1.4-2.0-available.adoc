@@ -32,9 +32,12 @@ Benefits of MicroProfile 2.0 are:
 * Interoperability across different MicroProfile implementations provides users the freedom to select one or combine many MicroProfile implementations in an application
 * A thorough set of artifacts for each API, including a Test Compatibility Kit (TCK), Javadoc, PDF document for download, API Maven artifact coordinates, Git tag, and downloads (spec and source code)
 
-Eclipse MicroProfile continues to deliver additional value with each release and to successfully evolve with the dynamic help of all its community members. Future releases will update existing APIs and add new ones.  As an example, the community has already started work on future functionality:
-
-image::MP2.x-diagram.png[2_x]
+Eclipse MicroProfile continues to deliver additional value with each release and to successfully evolve with the dynamic help of all its community members. Future releases will update existing APIs and add new ones.  As an example, the community has already started discussing the following topics:
+* Long Running Actions
+* Reactive Streams
+* Reactive Events
+* Data Access
+* Event Data
 
 Eclipse MicroProfile continues to forge ahead enabling enterprise Java microservices development for enterprise Java developers. Join community members developing existing specifications or help with R&D on topics like Long Running Actions (LRA), service mesh alignment, reactive streams, reactive events, event data, data access, or even form a group to cover some innovating new idea!
 
