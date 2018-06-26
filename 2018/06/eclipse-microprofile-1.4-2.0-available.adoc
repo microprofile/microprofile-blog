@@ -9,6 +9,7 @@ image::MP1.4-diagram.png[1_4]
 The Config API introduces improvements to implicit converters and Java 2 security updates, JWT Propagation adds support for configuring the public key and issuer needed for verification, Fault Tolerance introduces updates to its SPI and interaction with Metrics, Open Tracing adds component tag to server and client spans, and Rest Client adds asynchronous methods and better integration to other MicroProfile APIs.
 
 Benefits of MicroProfile 1.4 are:
+
 * Additional features offering more functionality for implementing Enterprise Java microservices.
 * Added security capabilities
 * Improved ease-of-use
@@ -24,6 +25,7 @@ image::MP2.0-diagram.png[2_0]
 Java API for JSON binding, or JSON-B, is a binding layer for converting Java objects from/to JSON messages. It’s similar to JAXB (Java API for XML binding) but for JSON documents.
 
 Benefits of MicroProfile 2.0 are:
+
 * Alignment to Java EE 8
 * New capabilities brought on by updated Java EE 8 APIs
 * JSON binding capabilities
@@ -33,6 +35,7 @@ Benefits of MicroProfile 2.0 are:
 * A thorough set of artifacts for each API, including a Test Compatibility Kit (TCK), Javadoc, PDF document for download, API Maven artifact coordinates, Git tag, and downloads (spec and source code)
 
 Eclipse MicroProfile continues to deliver additional value with each release and to successfully evolve with the dynamic help of all its community members. Future releases will update existing APIs and add new ones.  As an example, the community has already started discussing the following topics:
+
 * Long Running Actions
 * Reactive Streams
 * Reactive Events
