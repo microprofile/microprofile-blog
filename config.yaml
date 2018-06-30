@@ -381,3 +381,13 @@ blog:
       - news
     extract: >
       Launched nearly two years ago, the Eclipse MicroProfile project is moving fast with four releases and eight subspecs having at least two implementations each.
+
+  - url: '2018/06/eclipse-microprofile-1.4-2.0-available'
+    title: 'Eclipse MicroProfile 1.4 and 2.0 are Now Available'
+    date: '2018-06-29'
+    author: 'Cesar Saavedra'
+    tags:
+      - community
+      - news
+    extract: >
+      Eclipse MicroProfile, an open forum to collaborate on Enterprise Java microservices, would like to announce the releases of Eclipse MicroProfile 1.4 and 2.0.
