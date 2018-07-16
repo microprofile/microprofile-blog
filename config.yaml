@@ -1,6 +1,17 @@
 %YAML 1.2
 ---
 blog:
+  - url: 'http://blog.payara.fish/microprofile-panel-one-year-on'
+    title: 'MicroProfile Panel - One Year On'
+    date: '2017-09-14'
+    author: 'Dominika Tasarz'
+    tags:
+      - microprofile
+      - DevNation
+    extract: >
+      A lot has happened since June 2017: MicroProfile joined the Eclipse Foundation, the 1.0 and 1.1 versions were released, new members were added, and new specs created. All of this (and more) was achieved through a lot of hard work, countless discussions, calls, meetings, and community collaborations.
+      Now that one year has passed, it seems like a good time to check back with the panelists to see how they feel about MicroProfile and the progress that it has made since the time they all stood at the DevNation stage together.
+
   - url: 'https://developer.ibm.com/wasdev/blog/2017/08/09/microprofile-1-1-announced/'
     title: 'MicroProfile 1.1 announced!'
     date: '2017-08-09'
