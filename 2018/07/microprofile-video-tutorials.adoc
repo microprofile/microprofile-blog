@@ -1,0 +1,13 @@
+= German video tutorial series on Eclipse MicroProfile
+
+Heiko Rupp of Red Hat has started a https://www.youtube.com/playlist?list=PLOvpj-HhBkkwdnSBATQxGdvvXNMZiYaFE[German tutorial series] on MicroProfile on his YouTube channel.
+
+The videos follow his presentation at https://www.java-forum-stuttgart.de/de/Slot+6+2018.html#d6[Java-Forum-Stuttgart “MicroServices mit Eclipse MicroProfile entwickeln”].
+
+The first three episodes are
+
+* Intro: what is MicroProfile and how to use it with the Thorntail server
+* Rest-Client: how to use the RestClient in your code
+* Config: how to inject configuration properties.
+
+More episodes will be added to cover more MicroProfile specifications.
