@@ -443,3 +443,13 @@ blog:
     extract: >
       One of the new features in Payara Platform version 5.182 is full compatibility with MicroProfile 1.3. In this blog post, I will introduce OpenAPI 1.0, a new API in MicroProfile 1.3. This functionality is available in both Payara Server and Payara Micro in version 5.182.
 
+  - url: 'https://headcrashing.wordpress.com/2018/07/08/jax-rs-2-2-snapshot-jfs-2018'
+    title: 'AX-RS 2.2-SNAPSHOT @ JFS 2018'
+    date: '2018-07-08'
+    author: 'Markus Karg'
+    tags:
+      - community
+      - news
+    extract: >
+      One of the new features in Payara Platform version 5.182 is full compatibility with MicroProfile 1.3. In this blog post, I will introduce OpenAPI 1.0, a new API in MicroProfile 1.3. This functionality is available in both Payara Server and Payara Micro in version 5.182.
+
