@@ -465,3 +465,11 @@ blog:
     extract: >
       Heiko Rupp of Red Hat has started a German tutorial series on MicroProfile on his YouTube channel.
 
+  - url: 'https://openliberty.io/blog/2018/08/16/whats-next-microprofile-jakartaee.html'
+    title: 'What's next for MicroProfile and Jakarta EE?'
+    date: '2018-08-16'
+    author: 'Kevin Sutter'
+    tags:
+      - community
+    extract: >
+      Get Kevin Sutter's view on how the MicroProfile and Jakarta EE projects could be combined at some point. He describes the progress in establishing each of the two projects, the issues to consider as the projects become more established, and current steps that are being made towards a more integrated future.
