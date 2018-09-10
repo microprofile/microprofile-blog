@@ -473,3 +473,14 @@ blog:
       - community
     extract: >
       Get Kevin Sutter's view on how the MicroProfile and Jakarta EE projects could be combined at some point. He describes the progress in establishing each of the two projects, the issues to consider as the projects become more established, and current steps that are being made towards a more integrated future.
+
+  - url: 'https://medium.com/oracledevs/helidon-takes-flight-fb7e9e390e9c'
+    title: 'Helidon Takes Flight'
+    date: '2018-09-07'
+    author: 'Dmitry Kornilov'
+    tags:
+      - community
+      - news
+    extract: >
+      Today is a great day. Today we introduce a new Java microservices frameworks and a new member of MicroProfile family. Please welcome Project Helidon — a new Java microservices framework from Oracle.
+
