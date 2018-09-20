@@ -484,3 +484,24 @@ blog:
     extract: >
       Today is a great day. Today we introduce a new Java microservices frameworks and a new member of MicroProfile family. Please welcome Project Helidon — a new Java microservices framework from Oracle.
 
+
+  - url: 'https://openliberty.io/blog/2018/09/19/get-more-metrics-microprofile20.html'
+    title: 'Get more metrics from your apps with MicroProfile 2.0 on Open Liberty 18.0.0.3'
+    date: '2018-09-20'
+    author: 'Laura Cowen'
+    tags:
+      - community
+      - news
+    extract: >
+      Monitor your microservices with metrics from your applications, from Liberty components, and to report on their fault tolerance handling. Plus more for your microservices with Open Liberty 18.0.0.3.
+
+  - url: 'https://openliberty.io/blog/2018/09/19/dynamic-update-microservice-config.html'
+    title: 'Dynamically update your microservice configuration'
+    date: '2018-09-20'
+    author: 'Neil Young'
+    tags:
+      - community
+      - news
+    extract: >
+      Separate configuration from your microservices code with MicroProfile Config. Easily and dynamically change your app's configuration by adding and modifying variables in your server config.
+
