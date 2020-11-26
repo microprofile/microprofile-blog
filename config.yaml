@@ -135,6 +135,15 @@ blog:
     date: '2016-10-19'
     author: 'jclingan'
 
+  - url: 'https://otaviojava.wordpress.com/2016/10/02/microprofile-1-0/'
+    title: 'MICROPROFILE 1.0'
+    date: '2016-10-02'
+    author: 'Otávio Santana'
+    tags:
+      - community
+    extract: >
+      O termo microsserviço, no mundo do desenvolvimento de software, se tornou um termo muito popular. Assim, diversos artigos e diversas ferramentas vem surgindo relacionado a esse tópico. No mundo Java, o Spring vem discutindo sobre esse tópico principalmente após a versão 4.0 e o Spring Boot. Porém, essa é a única solução existente? A resposta é não, recentemente foi lançado uma nova ferramenta no mundo Java, o MicroProfile, e esse foi um dos tópicos mais comentados no JavaOne 2016.
+
   - url: 'https://developer.jboss.org/blogs/mark.little/2016/09/17/to-microprofile-10-and-beyond'
     title: 'To MicroProfile 1.0 and Beyond'
     date: '2016-09-17'
